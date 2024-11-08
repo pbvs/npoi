@@ -182,6 +182,8 @@ namespace TestCases.XWPF.UserModel
             //Check 
             Assert.AreEqual("Table replace multiple enters Regel1\nRegel2\nRegel3 text after last enter", builder.ToString());
 
+            
+
         }
 
         [Test]
